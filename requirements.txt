@@ -1,0 +1,11 @@
+openai
+requests
+beautifulsoup4
+tqdm
+python-dotenv
+streamlit
+langchain
+duckduckgo-search
+google-search-results
+newspaper3k
+lxml-html-clean
